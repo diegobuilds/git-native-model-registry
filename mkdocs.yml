@@ -1,0 +1,8 @@
+site_name: Git-Native Model Registry — Glossary
+nav:
+  - Home: index.md
+  - Glossary: glossary.md
+  - Usage: usage.md
+  - Contributing: contributing.md
+theme:
+  name: material
